@@ -3,8 +3,8 @@
     "name": "EternalMangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.eternalmangas",
     "lang": "es",
-    "version": "1.0",
-    "code": 1,
-    "apk": "https://raw.githubusercontent.com/Maky20/mihon-repo/main/extensions/eternalmangas.apk"
+    "version": "1.4.18",
+    "code": 14,
+    "apk": "https://raw.githubusercontent.com/Maky20-png/mihon-repo/main/extensions/eternalmangas.apk"
   }
 ]
